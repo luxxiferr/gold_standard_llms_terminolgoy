@@ -3,7 +3,7 @@ This study aims to develop a gold-standard for terminological extraction in Cast
 
 This repository contains the following folders:
 1. Data: contains a folder per article, which includes:
-   A. The terms extracted by the terminologies following the morphosyntactic patterns: patron_N_ADJ_ADJ_LL_contexto_articulo_*.csv, patron_N_ADJ_LL_contexto_articulo_*.csv,   patron_N_ADJ_PREP_N_ADJ_contexto_articulo_*.csv, patron_N_ADJ_PREP_N_contexto_articulo_*.csv,  patron_N_PREP_N_contexto_articulo_*.csv, etc
+   A. The terms extracted by the terminologies following the morphosyntactic patterns: patron_N_ADJ_ADJ_LL_contexto_articulo_*.csv patron_N_ADJ_LL_contexto_articulo_*.csv,   patron_N_ADJ_PREP_N_ADJ_contexto_articulo_*.csv, patron_N_ADJ_PREP_N_contexto_articulo_*.csv,  patron_N_PREP_N_contexto_articulo_*.csv, etc
    B. The terms extracted by the models:
        - Mistral (zero-shot): terminos_extraidos_con_patrones_ con_ejemplos_mistral.txt
        - Mistral (one-shot): terminos_extraidos_con_patrones_sin_ejemplos_mistral.txt
@@ -20,11 +20,14 @@ This repository contains the following folders:
 
 3. Evaluation_results:
    A. Mistral:
+   
        - global zero-shot results: evaluacion_anotaciones_global_mistral_zero
        - zero-shot results per article: evaluacion_por_articulo_mistral_zero
        - global one-shot results: evaluacion_anotaciones_global_mistral_one
        - one-shot results per article: evaluacion_anotaciones_por_articulo_mistral_one
+   
    B. LLaMA3:
+   
        - global zero-shot results: evaluacion_anotaciones_global_llama_zero
        - zero-shot results per article: evaluacion_por_articulo_llama_zero
        - global one-shot results: evaluacion_anotaciones_global_llama_one
