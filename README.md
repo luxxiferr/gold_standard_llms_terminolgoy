@@ -5,20 +5,25 @@ This repository contains the following folders:
 1. Data: contains a folder per article, which includes:
    A. The terms extracted by the terminologies following the morphosyntactic patterns: patron_N_ADJ_ADJ_LL_contexto_articulo_*.csv patron_N_ADJ_LL_contexto_articulo_*.csv,   patron_N_ADJ_PREP_N_ADJ_contexto_articulo_*.csv, patron_N_ADJ_PREP_N_contexto_articulo_*.csv,  patron_N_PREP_N_contexto_articulo_*.csv, etc
    B. The terms extracted by the models:
+   
        - Mistral (zero-shot): terminos_extraidos_con_patrones_ con_ejemplos_mistral.txt
        - Mistral (one-shot): terminos_extraidos_con_patrones_sin_ejemplos_mistral.txt
        - LLaMA 3 (zero-shot): terminos_extraidos_con_patrones_sin_ejemplos.txt
        - LLaMA 3 (one-shot): terminos_extraidos_con_patrones_ejemplos.txt
+   
    C. The raw text from the article: articulo_*.txt
    D. The list with all the manually validated terms from the article: terminos_validados_todos.txt
 
-2. Code: code used for the experiments
+3. Code: code used for the experiments
    A. Terminology extraction with LLMs:
+   
        - Mistral: mistral_extraction
        - LLaMA3: llama3_extraction
+   
    B. Code used for the evaluation: evaluación
 
-3. Evaluation_results:
+4. Evaluation_results:
+   
    A. Mistral:
    
        - global zero-shot results: evaluacion_anotaciones_global_mistral_zero
