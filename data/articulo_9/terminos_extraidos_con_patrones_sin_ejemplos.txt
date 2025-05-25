@@ -1,0 +1,4 @@
+Agente
+Trabajador
+Trabajador en el caso de nulidad por discriminación salarial por razón de sexo
+

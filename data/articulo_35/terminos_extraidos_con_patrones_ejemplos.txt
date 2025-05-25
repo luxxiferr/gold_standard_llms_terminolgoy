@@ -1,0 +1,50 @@
+Cálculo
+Daño
+Duración máxima
+Horas
+Horas extraordinarias
+Jornada
+Jornada ordinaria
+Maximo
+Pago
+Pagos
+Siniestro
+Siniestro y urgente
+Tiempo de descanso
+Tiempo de descanso retribuido
+Tiempo de parálom
+Tiempo de recuperación
+Tiempo de trabajo
+Tiempo de vacancia
+Tiempo equivalente
+Voluntario
+actividad
+actividad técnica
+artículo
+ley
+maxima
+maximo
+maximo anual
+modalidad
+operación mercantil
+ordenamiento
+ordenamiento laboral
+pago
+pagos
+pagos de compensación
+regulación
+residencia
+responsabilidad
+responsabilidad penal
+riesgo
+servicio
+siniestro
+siniestro y urgente
+tiempo
+tiempo de descanso
+tiempo equivalente
+tiempo extra
+tiempo retribuido
+trabajo
+voluntario
+voluntario o contrato

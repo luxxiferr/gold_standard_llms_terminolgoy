@@ -1,0 +1,76 @@
+"""
+"""En la actividad de trabajo en el mar se consider
+Deben seguir alguno de los siguientes patrones morfosintácticos:
+Devuelve una lista limpia de términos candidatos, uno por línea, sin numeración, sin comillas y sin símbolos.
+Eres un experto en terminología de la legislación española.
+Los términos deben ser:
+Respuesta:
+Sustantivo + adjetivo
+Sustantivo + adjetivo + adjetivo
+Sustantivo + adjetivo + preposición + (artículo opcional) + sustantivo (+ adjetivo opcional)
+Sustantivo + preposición + (artículo opcional) + sustantivo
+Sustantivos o estructuras complejas nominales que representen conceptos propios del derecho laboral.
+Tarea: Extrae únicamente los **términos candidatos** que aparecen en el siguiente fragmento de un artículo legal del Estatuto de los Trabajadores.
+Texto del fragmento:
+Unidades terminológicas dentro del dominio jurídico-laboral.
+[ ] El documento de entrada es un archivo de texto UTF-8 con extensión.txt
+[ ] El documento de salida es un archivo de texto UTF-8 con extensión.txt
+[ ] El proceso de extracción se realizará usando un script Pyhton
+[ ] El script debe imprimir en el terminal todas las líneas del archivo de salida
+[ ] El script debe mostrar un mensaje de error en el terminal si el archivo de entrada no se encuentra o no es un archivo de texto
+[ ] El script devuelve el código 0 si el programa se ejecuta correctamente y cualquier otro número en caso de error
+[ ] El script toma como argumento el nombre del archivo de entrada
+[ ] El script.py debe ser usado como programa, no debe ser importado en otro script
+[ ] La extracción se realiza sobre todo el texto, no sobre un subconjunto seleccionado
+[ ] Las
+actividad
+actividad de las personas
+actividad de las personas prestadoras
+actividad de las personas prestadoras del servicio
+actividad de las personas prestadoras del servicio de transporte
+actividad de las personas prestadoras del servicio de transporte al amparo
+actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares
+actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada
+actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio
+actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio,
+actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio, con vehículos comerciales de servicio público
+actividad personales obligatorias
+actividades a título de amistad
+actividades a título de buena vecindad
+administraciones públicas
+administración
+administración en las empresas
+afinidad
+ascendientes
+buque
+cargo de consejero
+centro
+comités de administración
+consanguinidad
+descendientes
+dirección
+ejecutivo
+empleador
+empleo
+empresario
+entes, organismos, entidades
+entidades
+familiares
+funcionarios públicos
+grado
+mercantiles
+operaciones
+organización
+parientes
+personas
+prestaciones personales obligatorias
+relación
+relación de servicio
+responsabilidad
+retribuidos
+servicio de funcionarios públicos
+sevicios
+sociedades
+trabajador
+trabajo
+trabajos familiares

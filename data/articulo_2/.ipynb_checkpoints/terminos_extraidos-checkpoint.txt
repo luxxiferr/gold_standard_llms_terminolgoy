@@ -1,0 +1,27 @@
+"""Artículo 2. Relaciones laborales de carácter especial. 1. Se considerarán relaciones laborales de carácter especial:
+"""j) La de residencia para la formación de especialistas en Ciencias de la Salud. k) La de los abogados que prestan servicios en despachos de abogados, individuales o colectivos. l) Cualquier otro trabajo que sea expresamente declarado como relación laboral de carácter especial por una ley. 2. En todos los supuestos señalados en el apartado anterior, la regulación de dichas relaciones laborales respetará los derechos básicos reconocidos por la Constitución."""
+**Abogados de despacho**
+**Regulación laboral**
+**Relación laboral de carácter especial**
+**Residencia de formación**
+**Respuesta**
+**Términos candidatos derivados:**
+1. **Relaciones laborales de carácter
+Eres un experto en terminología del derecho laboral en español.
+Esto es un fragmento de artículo legal que describe un tipo de relación laboral. ¿Cuál es el propósito del artículo? ¿Cuál es el contexto en el que se aplicaría el artículo? ¿Cuál es el tema principal del artículo?
+Los términos deben ser sustantivos o estructuras complejas que representen conceptos propios del derecho laboral y que sean unidades terminológicas.
+No incluyas:
+Por favor, proporciona la respuesta con el formato solicitado.
+Puedes ofrecerme la respuesta con el término derivado de "relaciones laborales de carácter especial", como "relaciones laborales de carácter especial", y el término derivado de "servicio del hogar familiar" como "servicios de hogar", y el término derivado de "personas discapuestas" como "trabajadores con discapacidad", y el término derivado de "deportistas profesionales" como "deportistas", y el término derivado de "artistas escénicas, audiovisuales y musicales" como "artistas creativas", y el término derivado de "personas que intervienen en operaciones mercantiles por cuenta de uno o más empresarios sin asumir el riesgo y ventura" como "personas que no asumen riesgo ni ventura", y el término derivado de "menores sometidos a la ejecución de medidas de internamiento para el cumplimiento de su responsabilidad penal" como "menores internados".
+Si el artículo está explicando la existencia de una relación laboral de carácter especial, podría ser que se refiera a la regulación laboral que le otorgue derechos y obligaciones específicos a los abogados de despacho. En este caso, el término "Residencia de formación" podría referirse a los abogados de despacho. La regulación laboral mencionada en el artículo se aplicaría a los abogados de despacho, incluyendo a aquellos que trabajen en despachos individuales o colectivos. La relación laboral de carácter especial se establecería entre los abogados de despacho y su empleador, con derechos y obligaciones específicas.
+Si el artículo está siendo utilizada para discutar sobre la existencia de una regulación laboral para los abogados de despacho, el término "Regulación laboral" podría referirse a la legislación o práct
+Tarea: Extrae los términos candidatos que aparecen en el siguiente fragmento de un artículo legal.
+Texto del fragmento:
+Términos candidatos:
+Términos candidatos: palabra 1: "relaciones laborales de carácter especial" y palabra 2: "servicio del hogar familiar", y las restantes palabras son del artículo.
+a) La del personal de alta dirección no incluido en el artículo 1.3.c). b) La del servicio del hogar familiar. c) La de los penados en las instituciones penitenciarias. d) La de los deportistas profesionales. e) La de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad. f) La de las personas que intervengan en operaciones mercantiles por cuenta de uno o más empresarios sin asumir el riesgo y ventura de aquellas. g) La de los trabajadores con discapacidad que presten sus servicios en los centros especiales de empleo. h) (Derogada)
+adjetivos aislados sin sustantivo.
+i) La de los menores sometidos a la ejecución de medidas de internamiento para el cumplimiento de su responsabilidad penal."""
+palabras vacías (como artículos, conjunciones o preposiciones sueltas),
+texto original
+verbos,

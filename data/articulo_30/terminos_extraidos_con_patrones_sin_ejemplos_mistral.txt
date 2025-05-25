@@ -1,0 +1,4 @@
+contrato
+empresario
+salario
+trabajador

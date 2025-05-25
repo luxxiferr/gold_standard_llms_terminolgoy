@@ -1,0 +1,26 @@
+"""Artículo 7. Capacidad para contratar. Podrán contratar la prestación de su trabajo:
+(que son) capacidad de contratar,
+**NO INCLUYAS**:
+**Respuesta**:
+Adjetivos o verbos sueltos
+Comentarios
+Definiciones
+Devuelve únicamente una **lista de términos candidatos**, uno por línea, sin numeración.
+Eres un experto en terminología del derecho laboral en español.
+Explicaciones
+Los términos deben ser sustantivos o estructuras complejas que representen conceptos propios del derecho laboral:
+Por favor, responde con esta lista de términos candidatos, en un formato simple, sin utilizar ninguna jerga técnica, pero con suficiente detalle para que un lector de principiantes de la materia pueda comprenderlo.
+Preguntas
+Repeticiones del enunciado
+Tarea: Extrae solo los términos candidatos que aparecen en el siguiente fragmento de un artículo legal del Estatuto de los Trabajadores.
+Texto del fragmento:
+Términos candidatos:
+a) Quienes tengan plena capacidad de obrar conforme a lo dispuesto en el Código Civil. b) Los menores de dieciocho y mayores de dieciséis años, que vivan de forma independiente, con consentimiento de sus padres o tutores, o con autorización de la persona o institución que les tenga a su cargo. Si el representante legal de una persona de capacidad limitada la autoriza expresa o tácitamente para realizar un trabajo, queda esta también autorizada para ejercitar los derechos y cumplir los deberes que se derivan de su contrato y para su cesación. c) Los extranjeros, de acuerdo con lo dispuesto en la legislación específica sobre la materia."""
+capacidad de actuar en el sentido de la capacidad limitada,
+capacidad de actuar en el sentido de la capacidad plena,
+capacidad de contratar con autorización de la persona o institución que les tienen a cargo,
+capacidad de contratar con consentimiento de sus padres o tutores,
+capacidad de contratar de forma tácitamente cuando el representante legal de una persona de capacidad limitada la autoriza expresa o tácitamente.
+capacidad de contratar en el caso de extranjeros,
+capacidad de contratar en el caso de menores de dieciocho y mayores de dieciséis años,
+capacidad de contratar,

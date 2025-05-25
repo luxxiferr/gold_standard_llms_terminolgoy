@@ -1,0 +1,102 @@
+1. educación profesional
+10. asistencia a cursos
+11. trabajo a distancia
+12. exámenes
+13. reserva del puesto de trabajo
+14. formación
+15. formación necesaria
+16. jornada ordinaria
+17. concesión de permisos
+18. trabajo a distancia
+19. acceso a exámenes
+2. permisos
+20. reserva del puesto de trabajo
+21. educación profesional
+22. educación
+23. perfeccionamiento
+24. educación
+25. capacitación
+26. reserva del puesto de trabajo
+27. educación
+28. educación
+29. educación
+3. reserva del puesto de trabajo
+30. educación
+31. educación
+32. educación
+33. educación
+4. trabajo a distancia
+5. educación
+6. perfeccionamiento profesional
+7. capacitación
+8. acceso a exámenes
+9. permisos oportunos
+actividad
+actividad formativa dirigida
+actividad técnica
+activo
+antigüedad
+antigüedad mínima
+artículo
+características
+cargo
+centro especial de  empleo
+comprenderse
+concreción
+convenio colectivo
+criterios
+cuenta
+cumplimiento
+defecto
+deportista profesional
+derecho básico
+desarrollo
+discriminación
+discriminación directa
+discriminación indirecta
+disfrute
+educación profesional
+ejecución
+empleado
+empleado con al menos cinco años de antigüedad
+empleado con al menos un año de antigüedad
+empleo
+emprendor
+emprendor individual
+emprendor o colectiva
+empresario
+entrenamiento
+estudiante de formación
+estudiante de trabajo
+formación
+formación necesaria
+formación obligatoria
+formación profesional
+formación profesional para el empleo
+institución penitenciaria
+internamiento
+ley
+modo de disfrute
+mutuo acuerdo
+operación mercantil
+perjuicio
+perjuicio de lo anterior
+permisos
+permisos oportunos
+plan de formación
+plan de formación desarrollado por iniciativa empresarial
+plan de formación desarrollado por la negociación colectiva
+programa de formación
+programa de formación para el empleo
+programa de formación para el empleo en el marco de un plan de formación desarrollado por
+programa de formación para el empleo en el marco de un plan de formación desarrollado por iniciativa empresarial
+programa de formación para el empleo en el marco de un plan de formación desarrollado por iniciativa empresarial o comprometido por la negociación colectiva
+regulación
+reserva del puesto de trabajo
+residencia
+responsabilidad
+responsabilidad penal
+riesgo
+servicio
+trabajo
+trabajo a distancia

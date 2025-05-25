@@ -1,0 +1,64 @@
+"""Artículo 23. Promoción y formación profesional en el trabajo. 1. El trabajador tendrá derecho:
+"""El tiempo destinado a la formación se considerará en todo caso tiempo de trabajo efectivo. 2. En la negociación colectiva se pactarán los términos del ejercicio de estos derechos, que se acomodarán a criterios y sistemas que garanticen la ausencia de discriminación, tanto directa como indirecta, entre trabajadores de uno y otro sexo. 3. Los trabajadores con al menos un año de antigüedad en la empresa tienen derecho a un permiso retribuido de veinte horas anuales de formación profesional para el empleo, vinculada a la actividad de la empresa, acumulables por un periodo de hasta cinco años. El derecho se entenderá cumplido en todo caso cuando el trabajador pueda realizar las acciones formativas dirigidas a la obtención de la formación  profesional para el empleo en el marco de un plan de formación desarrollado por iniciativa empresarial o comprometido por la negociación colectiva."""
+"""Sin perjuicio de lo anterior, no podrá comprenderse en el derecho a que se refiere este apartado la formación que deba obligatoriamente impartir la empresa a su cargo conforme a lo previsto en otras leyes. En defecto de lo previsto en convenio colectivo, la concreción del modo de disfrute del permiso se fijará de mutuo acuerdo entre trabajador y empresario."""
+(Atentamente, omitirás las palabras "Artículo 23", "1", "a)", "b)", "c)", "d)", y "La misma", "para su adaptación", "las modificaciones operadas", "la posibilidad de obtener", "a tal efecto", "con reserva", "sin perjuicio", "para su adaptación", "las modificaciones operadas", "para su adaptación", "a cargo de la empresa", "sin perjuicio de la posibilidad de obtener".)
+**Clave de palabras**: formación laboral, obligación, permisión, modo de disfrute, acuerdo mutuo entre trabajador y empresario, convenimiento colectivo.
+**NO INCLUYAS**:
+**Nota**: Por favor, evita utilizar términos generales y opta por palabras o frases específicas que reflejen el artículo. Asegúrate de que no te resulte en un texto similar a la forma que se pregonea.
+**Solución**:
+**Términos candidatos con enfoque más específico**:
+1. Formación laboral obligatoria
+10. Discriminación directa o indirecta
+11. Tiempo de acumulación
+12. Período de hasta cinco años
+2. Acuerdo mutuo entre trabaj
+2. Discriminación
+3. Trabajadores
+4. Antigüedad
+5. Permite retribuido
+6. Formación profesional
+7. Empresas
+8. Négociación colectiva
+9. Criterios y sistemas
+Acuerdo mutuo entre trabajador y empresario
+Adjetivos o verbos sueltos
+Clave para la respuesta:
+Comentarios
+Conveniencia colectiva
+Definiciones
+Devuelve únicamente una **lista de términos candidatos**, uno por línea, sin numeración.
+Eres un experto en terminología del derecho laboral en español.
+Explicaciones
+Formación laboral
+La respuesta deberá consistir en una lista de términos que se han extraídos del artículo legal y son directamente mencionados en el texto, como formación necesaria, adaptación a las modificaciones operativas, perfeccionamiento profesional, permisos oportunos, créditos destinados a la formación, y asistencia a cursos de formación profesional.
+Los términos deben ser sustantivos o estructuras complejas que representen conceptos propios del derecho laboral:
+Modo de disfrute de la permisión
+Obligación
+Permite laboral
+Por favor, proporciona la lista en formato de código, sin numeraciones y separado por nuevas líneas.
+Preguntas
+Repeticiones del enunciado
+Si te gustaría, puedes proporcionar la lista de términos candidatos organizada de otro modo, por ejemplo, sin usar términos generales. A continuación, te proporciono una lista con un enfoque más específico.
+Tarea: Extrae solo los términos candidatos que aparecen en el siguiente fragmento de un artículo legal del Estatuto de los Trabajadores.
+Texto del fragmento:
+Términos candidatos:
+Términos candidatos: 1. Tiempo de trabajo efectivo.
+Términos candidatos: términos propios de derecho laboral relacionados con la obligación de la empresa de proporcionar una formación laboral y el modo de disfrute de la permisión.
+[Clave para la respuesta]
+[Formación necesaria, Perfeccionamiento profesional, Adaptación a las modificaciones operativas, Permisos oportunos, Créditos destinados a la formación, Asistencia a cursos de formación profesional, Jornada ordinaria de trabajo adaptación]
+[tu respuesta]
+```
+a) Al disfrute de los permisos necesarios para concurrir a exámenes, así como a una preferencia a elegir turno de trabajo y a acceder al trabajo a distancia, si tal es el régimen instaurado en la empresa, y el puesto o funciones son compatibles con esta forma de realización del trabajo, cuando curse con regularidad estudios para la obtención de un título académico o profesional. b) A la adaptación de la jornada ordinaria de trabajo para la asistencia a cursos de formación profesional. c) A la concesión de los permisos oportunos de formación o perfeccionamiento profesional con reserva del puesto de trabajo. d) A la formación necesaria para su adaptación a las modificaciones operadas en el puesto de trabajo. La misma correrá a cargo de la empresa, sin perjuicio de la posibilidad de obtener a tal efecto los créditos destinados a la formación."""
+antigüedad
+criterios y sistemas
+discriminación
+discriminación directa o indirecta
+empresas
+formación profesional
+negociación colectiva
+permute retribuido
+período de hasta cinco años
+tiempo de acumulación
+tiempo de trabajo efectivo.
+trabajadores
+¿Te gustaría que la lista de términos se separe en una línea por término o si puedes proporcionar una forma de organización diferente?

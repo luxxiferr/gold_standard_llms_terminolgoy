@@ -1,0 +1,13 @@
+Término,Patrón N+ADJ,Ubicación,Contexto
+promoción,promoción económica,Contexto,PROMOCIÓN: Artículo . [promoción] económica.
+promoción,Promoción económica,Contexto,"PROMOCIÓN: Artículo . Promoción económica. El trabajador, en función del trabajo desarrollado, podrá tener derecho a una [promoción] económica en los términos fijados en convenio colectivo o contrato individual."
+trabajo,Promoción económica,Contexto,"TRABAJO: Artículo . Promoción económica. El trabajador, en función del [trabajo] desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio colectivo o contrato individual."
+convenio colectivo,convenio colectivo,Término,"CONVENIO COLECTIVO: . El trabajador, en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en [convenio colectivo] o contrato individual."
+colectivo,trabajo desarrollado,Contexto,"COLECTIVO: El trabajador, en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio [colectivo] o contrato individual."
+derecho,Promoción económica,Contexto,"DERECHO: Artículo . Promoción económica. El trabajador, en función del trabajo desarrollado, podrá tener [derecho] a una promoción económica en los términos fijados en convenio colectivo o contrato individual."
+perjuicio,términos fijados,Contexto,PERJUICIO: en los términos fijados en convenio colectivo o contrato individual. Lo dispuesto en el apartado anterior se entiende sin [perjuicio] de los derechos adquiridos o en curso de adquisición en el tramo temporal correspondiente.
+promoción económica,promoción económica,Término,PROMOCIÓN ECONÓMICA: Artículo . [promoción económica] .
+promoción económica,promoción económica,Término,"PROMOCIÓN ECONÓMICA: Artículo . Promoción económica. El trabajador, en función del trabajo desarrollado, podrá tener derecho a una [promoción económica] en los términos fijados en convenio colectivo o contrato individual."
+contrato,trabajo desarrollado,Contexto,"CONTRATO: en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio colectivo o [contrato] individual."
+adquisición,apartado anterior,Contexto,ADQUISICIÓN: individual. Lo dispuesto en el apartado anterior se entiende sin perjuicio de los derechos adquiridos o en curso de [adquisición] en el tramo temporal correspondiente.
+trabajador,Promoción económica,Contexto,"TRABAJADOR: Artículo . Promoción económica. El [trabajador] , en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio colectivo o contrato individual."

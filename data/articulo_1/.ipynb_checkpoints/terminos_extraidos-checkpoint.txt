@@ -1,0 +1,64 @@
+"""
+"""A tales efectos se entenderá excluida del ámbito laboral la actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio, con vehículos comerciales de servicio público cuya propiedad o poder directo de disposición ostenten, aun cuando dichos servicios se realicen de forma continuada para un mismo cargador o comercializador. 4. La legislación laboral española será de aplicación al trabajo que presten los trabajadores españoles contratados en España al servicio de empresas españolas en el extranjero, sin perjuicio de las normas de orden público aplicables en el lugar de trabajo. Dichos trabajadores tendrán, al menos, los derechos económicos que les corresponderían de trabajar en territorio español. 5. A efectos de esta ley se considera centro de trabajo la unidad productiva con organización específica, que sea dada de alta, como tal, ante la autoridad laboral.""".
+"""Artículo 1. Ámbito de aplicación. 1. Esta ley será de aplicación a los trabajadores que voluntariamente presten sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o empresario. 2. A los efectos de esta ley, serán empresarios todas las personas, físicas o jurídicas, o comunidades de bienes que reciban la prestación de servicios de las personas referidas en el apartado anterior, así como de las personas contratadas para ser cedidas a empresas usuarias por empresas de trabajo temporal legalmente constituidas. 3."""
+"""En la actividad de trabajo en el mar se considerará como centro de trabajo el buque, entendiéndose situado en la provincia donde radique su puerto de base."""
+"""Se considerarán familiares, a estos efectos, siempre que convivan con el empresario, el cónyuge, los descendientes, ascendientes y demás parientes por consanguinidad o afinidad, hasta el segundo grado inclusive y, en su caso, por adopción. f) La actividad de las personas que intervengan en operaciones mercantiles por cuenta de uno o más empresarios, siempre que queden personalmente obligados a responder del buen fin de la operación asumiendo el riesgo y ventura de la misma. g) En general, todo trabajo que se efectúe en desarrollo de relación distinta de la que define el apartado 1.""".
+"""Se excluyen del ámbito regulado por esta ley:
+"La cuñandura del agua marina, que forma una capa superficial de material débil, que se produce por la erosión de las rocas y los minerales de la tierra.
+"La cuñandura marina del suelo terrestre, que se
+(Length: 500 caracteres)
+**Acciones** (relación de servicio entre el Estado y el sector público)
+**Actividad** (limitación de lo que se puede hacer, en el contexto de los funcionarios públicos)
+**Cargo** (responsabilidad o función asignada a un individuo, en este caso, de consejero o miembro de las órganos de administración)
+**Cometidos** (tarea o responsabilidad específica asignada a un individuo o organización)
+**Compañías** (entidades que revisten la forma jurídica de sociedad, en este caso, las empresas)
+**Entidades** (colectiva de organizaciones, entidades o personas, en este caso, las
+**Listado de términos candidatos**
+**Nota:**
+**PREG
+**PREGUNTA DE LA CONSULTA**
+**PREGUNTA DE RESPUESTA**
+**Prestaciones** (obligaciones personales de los funcionarios, como la remuneración laboral)
+**Respuesta**
+**Trabajos** (actividad realizada por un individuo, en este caso, por un funcionario público o por las entidades del sector público)
+1.    Centro de trabajo
+10. **Contratante**
+11.  **Empresas**
+12.  **Persona prestadora de servicio**
+13.  **Propietario**
+14.  **Transporte de servicio público**
+15.  **Transporte de servicio privado**
+2.    Unidad productiva
+3.    Empresa
+4.    Trabajador
+5.    Vehículo comercial
+6.    Servicio público
+7.    Autorización
+8.  **Conductore de vehículo**
+9.  **Conductor de servicio público**
+Algunos términos clave en este artículo son: trabajadores independientes, empresas de trabajo temporal legalmente constituidas, personas contratadas para ser cedidas.
+Artículo 1. Ámbito de aplicación. 1. Aplicable a los trabajadores que voluntariamente presten sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o empresario. 2. A los efectos de esta ley, serán empresarios todas las personas, físicas o jurídicas, o comunidades de bienes que reciban la prestación de servicios de las personas referidas en el apartado anterior, así como de las personas contratadas para ser cedidas a empresas usuarias por empresas de trabajo temporal legalmente constituidas. 3.
+Devuelve la lista de términos candidatos.
+En el mar, el buque se encuentra en el centro de la provincia [X] donde radica su puerto de base.
+En este artículo, el ámbito de aplicación es claro: el derecho laboral se aplica a los trabajadores independientes. Sin embargo, el artículo también menciona que las empresas que contratan a personas para realizar servicios temporales, como las empresas de trabajo temporales, también son consideradas como empresas para los efectos de la ley. Además, las comunidades de bienes que reciben servicios de personas, como las empresas de trabajo temporales, también son consideradas como empresas.
+Eres un experto en terminología del derecho laboral en español.
+La cuñandura marina del suelo terrestre, que se produce por la erosión del suelo terrestre, cuya erosión implica una serie de reacciones químicas y biológicas.
+La cuñandura marina del suelo terrestre, que se produce por la erosión del suelo terrestre, cuya erosión implica una serie de reactions químicas y biológicas."
+La cuñandura marina del suelo terrestre, que se refleja en la erosión del cuñandura del agua marina.
+La erosión marina del cuñandura del agua marina, producida por la erosión del suelo terrestre, cuyo proceso implica una serie de reacciones químicas y biológicas.
+La respuesta debe consistir únicamente en la lista de términos candidatos, sin cualquier explicación o justificativa.
+Los términos deben ser sustantivos o combinaciones de varios elementos morfosintácticos que representen conceptos propios del derecho laboral y que sean unidades terminológicas.
+No incluyas palabras vacías, verbos ni adjetivos sueltos. Solo términos con valor terminológico dentro del dominio del derecho laboral.
+Por lo tanto, la lista de términos candidatos para
+Si el fragmento de artículo menciona que la legislación laboral española se aplica al trabajo de personas prestantes del servicio de transporte de vehículos comerciales de servicio público, en el extranjero, con la propiedad o poder directo de disposición de dichos vehículos, ¿cuál es el término más probable que sea aplicable en este contexto?
+Tarea: Extrae los términos candidatos que aparecen en el siguiente fragmento de un artículo legal.
+Texto del fragmento:
+Términos candidatos:
+[Insertar la respuesta aquí]
+[enlace de la fuente](https://www.abcba.com.mx/abcba/2022/01/21/El-ABCBA-2022-01-21-La-contrata-para-de-los-datos-que-son-contratistas-para-uno-otro-como-se-convierte-en-una-actividad-mercada-que-implica-riesgo-y-ventura-de-la-contrata)
+[enlace de la fuente](https://www.employe.com.mx/2022/01/21/El-ABCBA-2022-01-21-La-contrata-para-de-los-datos-que-son-contratistas-para-uno-otro-como-se-convierte-en-una-actividad-mercada-que-implica-riesgo-y-ventura-de-la-contrata)
+[enlace de la fuente](https://www.employer.com.mx/2022/01/21/The-ABCBA-2022-01-21-When-Does-Your-Business-Hire-Contractors-Instead-of-Employees)
+[enlace de la fuorce](https://www.employer.com.mx/2022022/01/21/El-ABCBA-2022-01-21-La-contrata-para-de-los-datos-que-son-contratistas
+`[...]` (dejarlo entre los **[** y **]**)
+a) La relación de servicio de los funcionarios públicos, que se regirá por las correspondientes normas legales y reglamentarias, así como la del personal al servicio de las Administraciones Públicas y demás entes, organismos y entidades del sector público, cuando, al amparo de una ley, dicha relación se regule por normas administrativas o estatutarias. b) Las prestaciones personales obligatorias. c) La actividad que se limite, pura y simplemente, al mero desempeño del cargo de consejero o miembro de los órganos de administración en las empresas que revistan la forma jurídica de sociedad y siempre que su actividad en la empresa solo comporte la realización de cometidos inherentes a tal cargo. d) Los trabajos realizados a título de amistad, benevolencia o buena vecindad. e) Los trabajos familiares, salvo que se demuestre la condición de asalariados de quienes los llevan a cabo."""
+¿Cuál es el término más probable que sea aplicable en este contexto, basado en el fragmento del artículo legal?

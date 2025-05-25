@@ -1,0 +1,48 @@
+
+trabajadores
+empleados
+sexo
+preferencia
+mujeres
+hombres
+igualdad
+menor
+mayor
+grupo profesional
+puesto de trabajo.
+Acceso de las mujeres a las profesiones
+Contratos por tiempo indefinido
+Contratos temporales
+Dificultades especiales
+Duración del empleo
+Fomento del empleo
+Grupos específicos de trabajadores
+Negociaciones colectivas
+Preferencia en el empleo
+Reserva de empleo
+Trabajadores demandantes de empleo
+Discriminación
+origen
+pertenecer
+sindicato
+vincular
+estado
+adhesión
+parentesco
+acuerdo
+afectación
+retribución
+lengua
+pertenencia
+discriminación
+pertenencia
+sindicato
+discriminación
+exclusiones
+personas LGTBI
+preferencias
+protección
+reclamos
+reservas
+responsabilidad
+violencia
