@@ -28,7 +28,8 @@ This repository contains the following folders:
 
    C. Code used for the evaluation: evaluación
 
-5. Evaluation_results:
+
+4. Evaluation_results:
    
    A. Mistral:
    
@@ -43,6 +44,14 @@ This repository contains the following folders:
        - zero-shot results per article: evaluacion_por_articulo_llama_zero
        - global one-shot results: evaluacion_anotaciones_global_llama_one
        - one-shot results per article: evaluacion_anotaciones_por_articulo_llama_one
+
+
+   5. Documents
+
+A. Lists of morphosyntactic patterns used in the study
+
+B. Paper Legal Spanish Terminology Extraction: Gold-standard Generation and LLMs Evaluation
+
 
    C. YAKE: evaluacion_anotaciones_global_yake
 
