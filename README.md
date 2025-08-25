@@ -45,6 +45,14 @@ This repository contains the following folders:
        - global one-shot results: evaluacion_anotaciones_global_llama_one
        - one-shot results per article: evaluacion_anotaciones_por_articulo_llama_one
 
+   C. YAKE: evaluacion_anotaciones_global_yake
+
+   D. ΔP / ΔR results:
+
+         - zero-shot setting: delta_precision_recall_global_report_ZERO
+         - one-shot setting: delta_precision_recall_global_report_ONE
+       
+
 
    5. Documents
 
@@ -53,11 +61,5 @@ A. Lists of morphosyntactic patterns used in the study
 B. Paper Legal Spanish Terminology Extraction: Gold-standard Generation and LLMs Evaluation
 
 
-   C. YAKE: evaluacion_anotaciones_global_yake
-
-   D. ΔP / ΔR results:
-
-         - zero-shot setting: delta_precision_recall_global_report_ZERO
-         - one-shot setting: delta_precision_recall_global_report_ONE
-       
+ 
    
