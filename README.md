@@ -1,5 +1,5 @@
 # Legal Spanish Terminology Extraction: Gold-standard Generation and LLMs Evaluation
-This study aims to develop a gold-standard for terminological extraction in Castilian Spanishwithin the domain of labour law. To achieve this, a methodology was developed based onestablished linguistic theories and reviewed bya community of expert terminologists . Departing from previous extraction studies andreference theoretical frameworks, candidate terms were identified by their morphosyntac-tic patterns, enriched by assessing their degree of specialisation in reference resources. The candidate terms were then subjected to manual validation. To evaluate its applicability, we assessed the performance of the LLaMA3-8B and Mistral-7B language models in extracting labour law terms from the latest version of the Real Decreto Legislativo 2/2015 Ley del Estatuto de los Trabajadores, using prompting techniques and our gold-standard as the benchmark.
+This study aims to develop a gold-standard for terminological extraction in Castilian Spanish within the domain of labour law. To achieve this, a methodology was developed based on established linguistic theories and reviewed by a community of expert terminologists. Departing from previous extraction studies and reference theoretical frameworks, candidate terms were identified by their morphosyntactic patterns, enriched by assessing their degree of specialisation in reference resources. The candidate terms were then subjected to manual validation. To evaluate its applicability, we assessed the performance of the LLaMA3-8B and Mistral-7B language models in extracting labour law terms from the latest version of the Real Decreto Legislativo 2/2015 Ley del Estatuto de los Trabajadores, using prompting techniques and our gold-standard as the benchmark.
 
 This repository contains the following folders:
 1. Data: contains a folder per article, which includes:
@@ -54,11 +54,11 @@ This repository contains the following folders:
        
 
 
-   5. Documents
+5. Documents
 
-A. Lists of morphosyntactic patterns used in the study
+   A. Lists of morphosyntactic patterns used in the study
 
-B. Paper Legal Spanish Terminology Extraction: Gold-standard Generation and LLMs Evaluation
+   B. Paper Legal Spanish Terminology Extraction: Gold-standard Generation and LLMs Evaluation
 
 
  
